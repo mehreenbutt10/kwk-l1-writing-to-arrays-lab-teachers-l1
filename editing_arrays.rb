@@ -1,6 +1,6 @@
 rainbow_colors = [
   "red",
-  "default",
+  "yellow",
   "light_cyan"
 ]
 
